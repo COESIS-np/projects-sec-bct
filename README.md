@@ -15,7 +15,7 @@ $ git clone git@github.com:COESIS-np/projects-sec-bct.git
 ```
 or
 ```
-$ https://github.com/COESIS-np/projects-sec-bct.git
+$ git clone https://github.com/COESIS-np/projects-sec-bct.git
 ```
 or
 
