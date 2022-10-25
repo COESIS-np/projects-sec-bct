@@ -11,11 +11,11 @@ This documentation contains a set of guidelines to help you during the contribut
 ## 0. Fork this Repository🍴
 ## 1. Clone this repo to your device
 ```
-$ git clone git@github.com:shahGnp/major-project-SEC.git
+$ git clone git@github.com:COESIS-np/projects-sec-bct.git
 ```
 or
 ```
-$ git clone https://github.com/shahGnp/major-project-SEC.git
+$ https://github.com/COESIS-np/projects-sec-bct.git
 ```
 or
 
@@ -27,7 +27,7 @@ Simply download the zip file.
 *If you don't see your subfolder, create one by name of your subject*
     
     Example:
-    Computer Grahics/
+    Computer Graphics/
     Major Project/
     Minor Project/
 
@@ -48,7 +48,7 @@ Shoutout to my Amazing Teammates:
 3. Gandalf the White
 ```
 
-## 6. Commit changes with proper title🔒
+## 6. Commit changes with a proper title🔒
 ```
 $ git commit -m "title" -m "Description"
 ```
